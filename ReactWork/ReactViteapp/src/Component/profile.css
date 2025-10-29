@@ -1,0 +1,13 @@
+.parent{
+    border:2px solid black;
+    padding:20px;
+    width: 300px;
+    height: 400px;
+    background-color: lightblue;
+    color: darkblue;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
